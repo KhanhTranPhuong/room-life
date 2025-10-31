@@ -1,0 +1,41 @@
+{
+  "title": "Phòng trọ mới xây gần Đại học Quốc Gia",
+  "description": "Phòng 25m², full nội thất, toilet riêng, có chỗ để xe. Phòng thoáng mát, an ninh tốt, giờ giấc tự do. Điện 3.500đ/kWh, nước 20.000đ/m³.",
+  "images": [
+    "https://vanphongchothue.vn/uploads/noidung/images/phong%201.jpg",
+    "https://hoanmydecor.vn/wp-content/uploads/2022/06/trang-tri-phong-tro-9.jpg",
+    "https://bandon.vn/resize/1000x700/a-c/zc-1/f/uploads/posts/thiet-ke-nha-tro-dep-2020-bandon-0.jpg"
+  ],
+  "status": "available",
+  "roomType": "single",
+  "area": 25,
+  "pricePerMonth": 2500000,
+  "deposit": 500000,
+  "maxOccupants": 2,
+  "availableFrom": "2025-11-05",
+  "floor": 2,
+  "amenities": [
+    "wifi",
+    "máy lạnh",
+    "toilet riêng",
+    "ban công",
+    "bãi xe",
+    "nấu ăn"
+  ],
+  "utilities": {
+    "electricity": 3500,
+    "water": 20000,
+    "internet": 100000,
+    "cleaning": 50000
+  },
+  "address": {
+    "street": "123 Đường Lê Văn Việt",
+    "ward": "Hiệp Phú",
+    "city": "Hồ Chí Minh"
+  },
+  "contact": {
+    "name": "Nguyễn Văn A",
+    "phone": "0901234567",
+    "email": "nguyenvana@example.com"
+  }
+}

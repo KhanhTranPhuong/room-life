@@ -1,0 +1,38 @@
+{
+  "description": "Get all users with pagination",
+  "method": "GET",
+  "url": "/admin/users",
+  "headers": {
+    "Authorization": "Bearer YOUR_ADMIN_JWT_TOKEN"
+  },
+  "query_parameters": {
+    "page": "1",
+    "limit": "10",
+    "role": "CUSTOMER"
+  },
+  "expected_response": {
+    "success": true,
+    "message": "Users retrieved successfully",
+    "data": {
+      "users": [
+        {
+          "_id": "user_id",
+          "fullName": "User Name",
+          "email": "user@example.com",
+          "role": "CUSTOMER",
+          "status": "active",
+          "createdAt": "2025-11-01T00:00:00.000Z",
+          "updatedAt": "2025-11-01T00:00:00.000Z"
+        }
+      ],
+      "pagination": {
+        "currentPage": 1,
+        "totalPages": 5,
+        "totalUsers": 50,
+        "usersPerPage": 10,
+        "hasNextPage": true,
+        "hasPreviousPage": false
+      }
+    }
+  }
+}
