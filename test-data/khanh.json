@@ -1,0 +1,45 @@
+{
+  "title": "Phòng trọ cao cấp đã cập nhật",
+  "description": "Phòng 30m² cao cấp, full nội thất mới, toilet riêng, có thang máy. Phòng thoáng mát, an ninh 24/7, gần trường đại học. Điện 3.200đ/kWh, nước 18.000đ/m³.",
+  "images": [
+    "https://vanphongchothue.vn/uploads/noidung/images/phong%201.jpg",
+    "https://hoanmydecor.vn/wp-content/uploads/2022/06/trang-tri-phong-tro-9.jpg",
+    "https://bandon.vn/resize/1000x700/a-c/zc-1/f/uploads/posts/thiet-ke-nha-tro-dep-2020-bandon-0.jpg",
+    "https://example.com/new-room-image.jpg"
+  ],
+  "status": "occupied",
+  "roomType": "double",
+  "area": 30,
+  "pricePerMonth": 2800000,
+  "deposit": 600000,
+  "maxOccupants": 3,
+  "availableFrom": "2025-12-01",
+  "floor": 3,
+  "amenities": [
+    "wifi",
+    "máy lạnh",
+    "toilet riêng",
+    "ban công",
+    "bãi xe",
+    "nấu ăn",
+    "thang máy",
+    "bảo vệ 24/7",
+    "camera an ninh"
+  ],
+  "utilities": {
+    "electricity": 3200,
+    "water": 18000,
+    "internet": 120000,
+    "cleaning": 60000
+  },
+  "address": {
+    "street": "456 Đường Võ Văn Ngân",
+    "ward": "Linh Chiểu",
+    "city": "Hồ Chí Minh"
+  },
+  "contact": {
+    "name": "Trần Thị B",
+    "phone": "0907654321",
+    "email": "tranthib@example.com"
+  }
+}
